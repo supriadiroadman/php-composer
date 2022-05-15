@@ -8,5 +8,10 @@
             "email": "supriadiroadman@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Supriadi\\": "src/"
+        }
+    },
     "require": {}
 }

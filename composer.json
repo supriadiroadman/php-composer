@@ -1,0 +1,12 @@
+{
+    "name": "schatzy/belajar_php_composer",
+    "description": "Belajar PHP Composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Supriadi Roadman",
+            "email": "supriadiroadman@gmail.com"
+        }
+    ],
+    "require": {}
+}

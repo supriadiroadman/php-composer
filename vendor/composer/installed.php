@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '8ab4164c6b0784ead595b13a92195c5e31945a22',
+        'reference' => '0941480b1fceb62e296e67cf6b8fefff87e933de',
         'name' => 'schatzy/belajar_php_composer',
         'dev' => true,
     ),
@@ -40,7 +40,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '8ab4164c6b0784ead595b13a92195c5e31945a22',
+            'reference' => '0941480b1fceb62e296e67cf6b8fefff87e933de',
             'dev_requirement' => false,
         ),
         'schatzy/belajar_php_composer_library' => array(

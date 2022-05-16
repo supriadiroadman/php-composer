@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ea91d5d522ed1e76ec7e3aeeb5135906",
+    "content-hash": "ce8c8160cfb01983e4d96b4e49b4a972",
     "packages": [
         {
             "name": "monolog/monolog",
@@ -183,6 +183,7 @@
                     "Supriadi\\Belajar\\": "src/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "authors": [
                 {
                     "name": "Supriadi Roadman",
@@ -191,8 +192,8 @@
             ],
             "description": "Membuat composer library Hello",
             "support": {
-                "source": "https://github.com/supriadiroadman/composer-library-sederhana/tree/2.0.0",
-                "issues": "https://github.com/supriadiroadman/composer-library-sederhana/issues"
+                "issues": "https://github.com/supriadiroadman/composer-library-sederhana/issues",
+                "source": "https://github.com/supriadiroadman/composer-library-sederhana/tree/2.0.0"
             },
             "time": "2022-05-16T04:46:14+00:00"
         }

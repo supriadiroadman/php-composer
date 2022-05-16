@@ -13,5 +13,7 @@
             "Supriadi\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "monolog/monolog": "2.6.0"
+    }
 }

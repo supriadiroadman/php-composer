@@ -9,6 +9,7 @@ class ComposerStaticInit17b73f980ee6762fabee7d14b12b48ce
     public static $prefixLengthsPsr4 = array (
         'S' => 
         array (
+            'Supriadi\\Belajar\\' => 17,
             'Supriadi\\' => 9,
         ),
         'P' => 
@@ -22,6 +23,10 @@ class ComposerStaticInit17b73f980ee6762fabee7d14b12b48ce
     );
 
     public static $prefixDirsPsr4 = array (
+        'Supriadi\\Belajar\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/schatzy/belajar_php_composer_library/src',
+        ),
         'Supriadi\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',

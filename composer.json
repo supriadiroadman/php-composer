@@ -1,19 +1,26 @@
 {
-    "name": "schatzy/belajar_php_composer",
-    "description": "Belajar PHP Composer",
-    "type": "project",
-    "authors": [
-        {
-            "name": "Supriadi Roadman",
-            "email": "supriadiroadman@gmail.com"
-        }
-    ],
-    "autoload": {
-        "psr-4": {
-            "Supriadi\\": "src/"
-        }
-    },
-    "require": {
-        "monolog/monolog": "2.6.0"
+  "name": "schatzy/belajar_php_composer",
+  "description": "Belajar PHP Composer",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Supriadi Roadman",
+      "email": "supriadiroadman@gmail.com"
     }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Supriadi\\": "src/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/supriadiroadman/composer-library-sederhana"
+    }
+  ],
+  "require": {
+    "schatzy/belajar_php_composer_library": "1.0.0",
+    "monolog/monolog": "2.6.0"
+  }
 }

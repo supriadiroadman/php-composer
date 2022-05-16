@@ -162,23 +162,23 @@
         },
         {
             "name": "schatzy/belajar_php_composer_library",
-            "version": "1.0.0",
-            "version_normalized": "1.0.0.0",
+            "version": "2.0.0",
+            "version_normalized": "2.0.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/supriadiroadman/composer-library-sederhana.git",
-                "reference": "631c3d5a2de946b92e67b88a301c52da485333c8"
+                "reference": "a5b8e1a36160de2cf7563272490a4f4dbcd17469"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/supriadiroadman/composer-library-sederhana/zipball/631c3d5a2de946b92e67b88a301c52da485333c8",
-                "reference": "631c3d5a2de946b92e67b88a301c52da485333c8",
+                "url": "https://api.github.com/repos/supriadiroadman/composer-library-sederhana/zipball/a5b8e1a36160de2cf7563272490a4f4dbcd17469",
+                "reference": "a5b8e1a36160de2cf7563272490a4f4dbcd17469",
                 "shasum": ""
             },
             "require": {
                 "php": ">=8.0"
             },
-            "time": "2022-05-16T03:53:08+00:00",
+            "time": "2022-05-16T04:46:14+00:00",
             "type": "library",
             "installation-source": "dist",
             "autoload": {
@@ -194,7 +194,7 @@
             ],
             "description": "Membuat composer library Hello",
             "support": {
-                "source": "https://github.com/supriadiroadman/composer-library-sederhana/tree/1.0.0",
+                "source": "https://github.com/supriadiroadman/composer-library-sederhana/tree/2.0.0",
                 "issues": "https://github.com/supriadiroadman/composer-library-sederhana/issues"
             },
             "install-path": "../schatzy/belajar_php_composer_library"

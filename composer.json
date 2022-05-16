@@ -20,7 +20,7 @@
     }
   ],
   "require": {
-    "schatzy/belajar_php_composer_library": "1.0.0",
+    "schatzy/belajar_php_composer_library": "2.0.0",
     "monolog/monolog": "2.6.0"
   }
 }
